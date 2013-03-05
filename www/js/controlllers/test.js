@@ -1,0 +1,1 @@
+TestController = Ember.Controller.extend({});
